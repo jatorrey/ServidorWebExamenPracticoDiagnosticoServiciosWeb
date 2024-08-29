@@ -1,0 +1,18 @@
+{
+    "tareas": [
+        {
+            "id": 1,
+            "name": "Trabajar",
+            "desc": "Ir a trabajar al negocio familiar el fin de semana",
+            "state": "pendiente",
+            "dateCreated": "28 de agosto del 2024"
+        },
+        {
+            "id": 2,
+            "name": "Instalar programas",
+            "desc": "Instalar los distintos programas necesarios para este semestre",
+            "state": "pendiente",
+            "dateCreated": "27 de agosto del 2024"
+        }
+    ]
+}
